@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "studious-parity-329610",
+  "private_key_id": "d7e58ce95d79212f1d0e90f2ce78164cd7862ae1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCw+YtdBOOjpXK\n71SSb1pIuUQWbp0bn461XkKRcZsag6dxfF273LGyUML9rDYpqgUVUROeaKo/hu3J\n+dT0pi6yZs/uFNj+RBjVjJ/Famajn/S+Zl33JYrUzLoZdEexR5TP/CzXeoyVYt30\nLmi6HqZGC//UJAeI7JxUcwSRuDsTLNeuYt38TChe3vhYX3pE5/iTfpdXtt33vkZg\n6VND5lWv2dDWixQ3HCkEIXpexxYKcr5ROU8mnCupl5Mrk0n8i3LI9B3uWrb6yXG1\nhI8z7MacOKstO+BJJZlhvjGwo0peeshOueim2S4NsJBZzqxayuomfwW55QLLb+0J\nw36wpJ95AgMBAAECggEAAbvLUV2Wdvm0l559uuKcLnLdCki9w+stqADzcrv3d3Wd\n3e1kytvyBkugZgWhuHPiS7Lxtm0+vAYFbnt3dnNW4xD134FL/9IMronr5M6c+e6I\njSaixiUNZqDT3zohETuOit4MasvqcxdIMSOLRxd9ag4ynr7GBQ/7bD0B2LzdDxSe\nbySVKTKg6wAEWaHXwbY09vFWwAxvrhhcA36fPZgJ9dt+6oWAq99QyhWQXGbEJ0VB\nRQxmoxe7BYuhnGAAC0Q4iv0W5XkjAX+KYHbnCTNGTfqkRbmWGIhJPEYyeFVe/BcD\n/g37g461lttnnhdpREZb72QYFLgBq7OqpYNWN3RSiQKBgQD5Fm1eULpzhAZpsshc\n4uHLryiw9P3KAac0UpRDHAOYT9OpsBBinxmyMWTXf33nqSnT90JVlPC3U2JNCz7G\nlZkdSgMLp0z3TIBKT5+ywmg3h1VmKx+lNCDWh6T9XvCYpEanv/Tgu9egcXzmqBYu\ncnLtYaT/JxxzmddkA/5EklJBywKBgQDIK43LiuS+9xuMddEFAJ0jUVTdSsvr8Dir\nIoiGjW597r639zEHAaI119kc48PRU4BEVIzo0nWSNEadBGn6zPATuL1WMyTxuXTN\nSKkabGhlkkc3+WUo4/3XYO4pjb6yQan/Ue0Cj6A1caKhuSsrP2bQ/i7PgXu8FczA\nrba3k7LrSwKBgQClXYtMY0H1cMAlKgk1CXcoF2hnWq6mjsRnyy8dApssYkq+S+IE\n52VS1NIC82QuCTN4wp2qXZAV1Wjch0us4SJevIUbFn3VbFd7fjMipUg1HUbH5ndC\n4UGvyyvw/jeyztUNhzXWgT6dCNsH8q2PNnIwQHQe5ONRp9/ESZZkBdRQUwKBgD6V\n95i7jbfztUZelAL3ZSpkxJ8IQug7TMydWIiRcgmn+zOz8z1Ykmo5WeYBhPlPHVy/\n/urQ2vfipm1zsts69pmD+pcYGKYHsXB6Fn1vhdi0OtZSgQGe/4A3C2AstIIxq8Br\n0iop1BLBu/LK3aeBBFm2D9bLim+NdV6NMgMGCDwvAoGBANMhx7DuJ0mJnum7PdH1\nqOtdFHiOrRqYfUVCuy8KSjTMNCr7drU/h3a8DiMyQcfKKujOwDcRA7JkL7Z9DVwD\n+WCAx7WPALSpel/Tnyov60jLbFVJrsPY/i4zsZuckYOJ3w2Ef3FpvzoemiJh4hEh\n03g9Fsa/dQtjuVQbie0D9ptz\n-----END PRIVATE KEY-----\n",
+  "client_email": "texttospeech@studious-parity-329610.iam.gserviceaccount.com",
+  "client_id": "100239942430609742465",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/texttospeech%40studious-parity-329610.iam.gserviceaccount.com"
+}
